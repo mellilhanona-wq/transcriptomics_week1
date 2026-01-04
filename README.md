@@ -1,6 +1,7 @@
 RNA-seq Analysis of Plant Immune Response to Bacterial Effectors
 ---
 Overview
+
 This project analyzes RNA-seq data to study how gene expression changes in Arabidopsis thaliana during plant immune responses to bacterial infection. The analysis focuses on transcriptional responses induced by bacterial effector proteins AvrRpt2 and AvrRps4.
 
 The main objective is to identify differentially expressed genes and visualize global transcriptomic changes during infection.
